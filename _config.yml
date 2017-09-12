@@ -5,8 +5,8 @@ email: vitor.tfreitas@gmail.com
 url: http://vtrbtf.com
 baseurl: /epcamisetas.github.io
 description: "Camisetas personalizadas para venda"
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+keywords: "camisas, camisetas personalizadas, curso sublimacao, Belford Roxo, Rio de Janeiro"
+skills: "Venda de camisetas personalizadas e cursos de personalização"
 meta_author: Bruno Moni e Bruna Roberta
 
 # Google webmaster tools
@@ -36,15 +36,15 @@ color:
 footer:
   copyright: vtrbtf
   location: Belford Roxo
-  social: Around the Web
-  credits: Credits
+  social: Redes sociais
+  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
+    url: https://www.facebook.com/profile.php?id=100005174520704
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
