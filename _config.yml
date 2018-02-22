@@ -1,7 +1,6 @@
 # Site settings
 title: EP Camisetas
-email: vitor.tfreitas@gmail.com
-#epcamisetas@yahoo.com.br
+email: epcamisetas@yahoo.com.br
 url: http://vtrbtf.com
 baseurl: /epcamisetas.github.io
 description: "Camisetas personalizadas para venda"
@@ -34,10 +33,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: vtrbtf
-  location: Belford Roxo
+  copyright: Vitor Barbosa (vtrbtf)
+  location: Belford Roxo - Loja 1
+  credits: Belford Roxo - Loja 2
   social: Redes sociais
-  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -45,22 +44,12 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url: https://www.facebook.com/profile.php?id=100005174520704
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Av. Joaquim da Costa Lima 337 loja A Centro
-  - line: "-"
-  - line: Av. Um 194 Barro Vermelho
+  - line: Av. Joaquim da Costa Lima 337 loja A - Centro
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-
+credits: Av. Um 194 Barro Vermelho
 # Build settings
 markdown: kramdown
 permalink: pretty
