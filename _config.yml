@@ -1,8 +1,8 @@
 # Site settings
 title: EP Camisetas
 email: epcamisetas@yahoo.com.br
-url: http://vtrbtf.com
-baseurl: /epcamisetas.github.io
+url: http://ep-camisetas.github.io
+#baseurl: /epcamisetas.github.io
 description: "Camisetas personalizadas para venda"
 keywords: "camisas, camisetas personalizadas, curso sublimacao, Belford Roxo, Rio de Janeiro"
 skills: "Venda de camisetas personalizadas e cursos de personalização"
